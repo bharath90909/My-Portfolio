@@ -29,7 +29,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Redux" />
         <SkillList src={checkMarkIcon} skill="Webpack" />
         <SkillList src={checkMarkIcon} skill="Git" />
-        <SkillList src={checkMarkIcon} skill="Jest" />
+        {/* <SkillList src={checkMarkIcon} skill="Jest" /> */}
       </div>
     </section>
   );
