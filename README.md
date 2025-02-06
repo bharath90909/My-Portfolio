@@ -20,7 +20,8 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **CSS**: Styled with modern CSS techniques to ensure a clean and responsive design.
 - **React Hooks**: Used for state management and handling component lifecycle.
 
-##Snap Shots
+## Snap Shots
+![image](https://github.com/user-attachments/assets/61d240e2-40aa-4c68-85fa-99c68f0ac84d)
+
 ![image](https://github.com/user-attachments/assets/277ddf8c-6c92-488a-9caa-ccaecdb67a35)
 
-![image](https://github.com/user-attachments/assets/f40059a9-44b7-4713-913b-ec6c6882fe77)
