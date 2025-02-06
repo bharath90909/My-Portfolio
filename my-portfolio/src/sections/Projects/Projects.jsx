@@ -4,7 +4,9 @@ import freshBurger from "../../assets/fresh-burger.png";
 
 import news from "../../assets/news.png";
 import store from "../../assets/store.jpg";
+import music from "../../assets/music.jpg";
 import travel from "../../assets/flight.jpg";
+
 import movies from "../../assets/movies.png";
 import ProjectCard from "../../common/ProjectCard";
 
@@ -25,6 +27,13 @@ function Projects() {
           h3="E-Commerce Store"
           p="ShopEase App"
         />
+
+        <ProjectCard
+          src={music}
+          link="https://prismatic-heliotrope-b41322.netlify.app/"
+          h3="Tune In"
+          p="Discover Your Vibe"
+        />
         <ProjectCard
           src={travel}
           link="https://superlative-sopapillas-c72cbe.netlify.app/"
@@ -32,16 +41,16 @@ function Projects() {
           p="WanderGo"
         />
         <ProjectCard
-          src={movies}
-          link="https://astonishing-meringue-c336ce.netlify.app/"
-          h3="Movie Night"
-          p="CineFlix App"
-        />
-        <ProjectCard
           src={freshBurger}
           link="https://gleaming-froyo-8b6c0f.netlify.app/"
           h3="Meals Online"
           p="Food Express"
+        />
+        <ProjectCard
+          src={movies}
+          link="https://astonishing-meringue-c336ce.netlify.app/"
+          h3="Movie Night"
+          p="CineFlix App"
         />
       </div>
     </section>
